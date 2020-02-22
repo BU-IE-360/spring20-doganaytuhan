@@ -1,3 +1,9 @@
+# Example Progress Journal
+
+## Week 0 (September 19)
+
+[Here](files/Interesting-Forecasting-Applications-with-R.html) is my 5 interesting R examples
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/BU-IE-360/spring20-doganaytuhan/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
